@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.Rmd linguist-language=R \n
+*.html linguist-language=R \n
+*.png linguist-language=R \n
